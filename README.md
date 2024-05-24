@@ -18,7 +18,7 @@
 <ul>
   <li><a href="https://www.instagram.com/nikkath_zabeen/">Instagram</li>
       <li><a href="www.linkedin.com/in/nikkath-zabeen-6805332a7">LinkedIn</li>
-        <li><a href="nikkathzabeenshaik@gmail.com"></li>
+        <li><a href="mailto:nikkathzabeenshaik@gmail.com">nikkathzabeenshaik@gmail.com</li>
 </ul>
 
 <h2 align="left">I code with</h2>
