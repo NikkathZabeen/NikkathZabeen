@@ -1,8 +1,5 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Nikkath Zabeen</h1>
 
-###
-
-<p align="left">My name is Nikkath Zabeen and I'm a Undergrad Student , from Indian Institute of Information Technology,Kottayam</p>
 
 ###
 
