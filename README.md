@@ -3,21 +3,7 @@
 
 ###
 
-<p>Trying to create meaningful projects </p>
-
-###
-
-<h2 align="left">How to reach me</h2>
-<ul>
-  <li><a href="https://www.instagram.com/nikkath_zabeen/">Instagram</li>
-      <li><a href="https://www.linkedin.com/in/nikkath-zabeen-6805332a7/">LinkedIn</li>
-        <li><a href="mailto:nikkathzabeenshaik@gmail.com">nikkathzabeenshaik@gmail.com</li>
-</ul>
-
-<h2 align="left">I code with</h2>
-
-
-###
+<p>Trying to create meaningful projects with my coding skills </p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -44,5 +30,29 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+
+
+###
+
+<h2 align="left">How to reach me</h2>
+<ul>
+  <li><a href="https://www.instagram.com/nikkath_zabeen/">Instagram</li>
+      <li><a href="https://www.linkedin.com/in/nikkath-zabeen-6805332a7/">LinkedIn</li>
+        <li><a href="mailto:nikkathzabeenshaik@gmail.com">nikkathzabeenshaik@gmail.com</li>
+</ul>
+
+<h2 align="left">Languages I Know</h2>
+<ul>
+  <li>java</li>
+  <li>Html</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Node</li>
+  <li>MySQL</li>
+  <li>MongoDB</li>
+</ul>
+
+
+###
 
 ###
