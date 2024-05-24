@@ -3,11 +3,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently learning Artificial Intelligence<br>I'm looking to collaborate on Full-Stack Web development Projects<br>🎯 Goals:To Create meaningful projects with my skills   <br></p>
+<p>Trying to create meaningful projects </p>
 
 ###
 
