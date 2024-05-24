@@ -17,7 +17,7 @@
 <h2 align="left">How to reach me</h2>
 <ul>
   <li><a href="https://www.instagram.com/nikkath_zabeen/">Instagram</li>
-      <li><a href="www.linkedin.com/in/nikkath-zabeen-6805332a7">LinkedIn</li>
+      <li><a href="https://www.linkedin.com/in/nikkath-zabeen-6805332a7/">LinkedIn</li>
         <li><a href="mailto:nikkathzabeenshaik@gmail.com">nikkathzabeenshaik@gmail.com</li>
 </ul>
 
