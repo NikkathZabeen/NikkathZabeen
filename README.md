@@ -14,7 +14,14 @@
 
 ###
 
+<h2 align="left">How to reach me</h2>
+<ul>
+  <li><a href="https://www.instagram.com/nikkath_zabeen/">Instagram</li>
+    <li>mail</li>
+</ul>
+
 <h2 align="left">I code with</h2>
+
 
 ###
 
