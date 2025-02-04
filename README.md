@@ -41,6 +41,13 @@
         <li><a href="mailto:nikkathzabeenshaik@gmail.com">nikkathzabeenshaik@gmail.com</li>
 </ul>
 
+<h2 align="left">Specialisation in:</h2>
+<ul>
+  <li>Machine learning</li>
+  <li>Deep learning</li>
+  <li>MERN Stack</li>
+</ul>
+
 <h2 align="left">Languages I Know</h2>
 <ul>
   <li>java</li>
@@ -50,7 +57,10 @@
   <li>Node</li>
   <li>MySQL</li>
   <li>MongoDB</li>
+  <li>Python</li>
 </ul>
+
+
 
 
 ###
