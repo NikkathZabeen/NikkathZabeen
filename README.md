@@ -51,14 +51,14 @@
 
 <h2 align="left">Languages I Know</h2>
 <ul>
+  <li>Python</li>
   <li>java</li>
-  <li>Html</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
+  <li>C</li>
+  <li>C++</li>
   <li>Node</li>
   <li>MySQL</li>
   <li>MongoDB</li>
-  <li>Python</li>
+  
 </ul>
 
 
